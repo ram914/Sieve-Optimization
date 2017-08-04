@@ -1,0 +1,12 @@
+Input,Original Seive,Optimized Seive,Clashes
+1001,0,0,No Clashes
+10001,0,0,No Clashes
+100001,0,0,No Clashes
+1000001,0,0,No Clashes
+10000001,470,341,No Clashes
+100000001,3950,4735,No Clashes
+200000001,9382,8432,No Clashes
+300000001,11278,10334,No Clashes
+400000001,14664,15105,No Clashes
+500000001,19269,19311,No Clashes
+600000001,22353,23315,No Clashes
